@@ -8,6 +8,12 @@ Based on Codeigniter
 LIVE DEMO
 *********
 
-<http://www.satria.ga/ujian>
+http://www.satria.ga/ujian
 
-Pull request if you found bug, or need something
+**************
+HOW TO INSTALL
+**************
+
+- Download file zip dari repository ini atau jalankan command "git clone https://github.com/rpnjul/ujian-online.git "
+- Import Database UjianOnlen ke server atau local mu
+- Jalankan 
