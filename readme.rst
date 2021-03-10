@@ -8,6 +8,6 @@ Based on Codeigniter
 LIVE DEMO
 *********
 
-<https://www.satria.ga/ujian>
+<http://www.satria.ga/ujian>
 
 Pull request if you found bug, or need something
